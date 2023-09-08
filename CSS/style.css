@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1100px;
+    margin: auto;
+}
+.card
+{
+    background-size:cover;
+    background-position:center;
+    width: 360px ;
+    font-family: 'Caveat', cursive;
+    padding:30px 20px;
+    margin:50px auto;
+    box-sizing:border-box ;
+    display: inline-block;
+}
+
+    
+.card  p{ 
+    font-size:18px;
+    text-align:center;
+}
+
+
+.card h1{
+    text-align: center;
+}
+
+.card a{
+    text-decoration: none;
+    background-color: rgb(102, 58, 25);
+    color: aliceblue;
+    display:inline-block ;
+    padding:15px 10px ;
+    border-radius:25px ;
+}
+.Box01{
+background-image:url(https://images.pexels.com/photos/18262223/pexels-photo-18262223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+color:aliceblue;
+
+}
+.Box02
+{
+background-image:url(https://images.pexels.com/photos/18262232/pexels-photo-18262232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+color: aliceblue;
+
+}
+.Box03
+{
+    background-image:url(https://images.pexels.com/photos/18262233/pexels-photo-18262233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) ;
+color: aliceblue;
+
+}
+.Box04
+{background-image:url(https://images.pexels.com/photos/18262229/pexels-photo-18262229/free-photo-of-car-vehicle-vintage-technology.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) ;
+color: aliceblue;
+}
+
+.Box05
+{
+background-image:url(https://images.pexels.com/photos/18262225/pexels-photo-18262225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) ;
+color: aliceblue;
+}
